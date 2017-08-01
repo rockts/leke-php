@@ -1,0 +1,13 @@
+{
+    "name": "rockts/leke-php",
+    "description": "php demo packge",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gao peng",
+            "email": "rockts@sina.com"
+        }
+    ],
+    "require": {}
+}
